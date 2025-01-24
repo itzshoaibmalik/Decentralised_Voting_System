@@ -2,7 +2,6 @@
 
 ![evote](https://github.com/user-attachments/assets/21019fa8-8453-4234-a9a1-a8c36370a4a3)
 
-> **🏆 This project won 1st place in the National Level Hackathon Infothon 3.0 for the Social Innovation category.**
 
 -----
 
